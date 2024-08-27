@@ -3,35 +3,35 @@
     "description": "Original theme made by z0nyy",
     "authors": [
         {
-            "name": "Princeblueblood",
+            "name": "purple theme",
             "id": "131929165292240896"
         }
 
     ],
     "semanticColors": {
         "HEADER_PRIMARY": [
-            "#16C60C"
+            "#442066"
         ],
         "HEADER_SECONDARY": [
-            "#13A10E"
+            "#442066"
         ],
         "TEXT_NORMAL": [
-            "#16C60C"
+            "#442066"
         ],
 	"TEXT_SECONDARY": [
-            "#16C60C"
+            "#442066"
         ],
 	"TEXT_PRIMARY": [
-            "#16C60C"
+            "#442066"
         ],
         "TEXT_MUTED": [
-            "#16C60C"
+            "#442066"
         ],
         "INTERACTIVE_NORMAL": [
-            "#16C60C"
+            "#442066"
         ],
         "INTERACTIVE_HOVER": [
-            "#16C60C"
+            "#442066"
         ],
         "INTERACTIVE_ACTIVE": [
             "#13A10E"
@@ -40,16 +40,16 @@
             "#16C60C"
         ],
         "BACKGROUND_PRIMARY": [
-            "#000000"
+            "#442066"
         ],
         "BACKGROUND_SECONDARY": [
-            "#000000"
+            "#442066"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#000000"
+            "#442066
         ],
 		"REDESIGN_BUTTON_SECONDARY_BORDER": [
-		"#13A10E"
+		"#442066"
 		],
         "BACKGROUND_TERTIARY": [
             "#000000"
@@ -71,7 +71,7 @@
         ],
        
         "BACKGROUND_MESSAGE_HOVER": [
-            "#16C60C"
+            "#442066"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
             "#000000"
@@ -90,10 +90,10 @@
         ],
 		
 		"BUTTON_OUTLINE_BRAND_BACKGROUND":[
-		"#16C60C"
+		"#442066"
 		],
 		"BUTTON_OUTLINE_BRAND_BOARDER":[
-		"#16C60C"
+		"#442066"
 		],
         "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
       "#000000"
@@ -120,7 +120,7 @@
             "#13A10E"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#16C60C"
+            "#442066"
         ],
         "CHANNELS_DEFAULT": [
             "#13A10E"
@@ -144,7 +144,7 @@
 	    "#000000"
 	],
 "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
-"#16C60C"
+"#442066"
 ],
     "USER_PROFILE_HEADER_OVERFLOW_BACKGROUND": [
       "#000000",
@@ -153,13 +153,13 @@
 	   ]
     },
     "rawColors": {
-        "PRIMARY_100": "#16C60C",
-        "PRIMARY_200": "#16C60C",
-		"PRIMARY_230": "#16C60C",
-        "PRIMARY_300": "#13A10E",
-        "PRIMARY_360": "#16C60C",
-        "PRIMARY_400": "#16C60C",
-		"PRIMARY_500": "#16C60C",
+        "PRIMARY_100": "#442066",
+        "PRIMARY_200": "#442066",
+		"PRIMARY_230": "#442066",
+        "PRIMARY_300": "#442066",
+        "PRIMARY_360": "#442066",
+        "PRIMARY_400": "#442066",
+		"PRIMARY_500": "#442066",
 		"PRIMARY_560": "#000000",
         "PRIMARY_600": "#000000",
         "PRIMARY_630": "#000000",
